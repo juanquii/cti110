@@ -1,4 +1,4 @@
-# Jane Smith
+# Juan Necuzeaguet
 # June 9, 2025
 # P1Lab1 - Introduction
 # This program gets a user's name and prints a welcome message.
